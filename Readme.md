@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [артём паламарчук](https://up.htmlacademy.ru/adaptive/18/user/1030317).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Поданев]
 
 ---
 
